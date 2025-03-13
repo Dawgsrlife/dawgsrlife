@@ -4,7 +4,7 @@ My name is Alex, and I'm a Computer Science undergraduate student at the Univers
 
 - 💡 I'm currently learning how to develop the software to automate trading and investments!
 - 🌱 I've recently acquired a plethora of design patterns, trained under a SCRUM workflow from my studies in CSC207 - Software Design: [Team SCRUM Workflow Project](https://github.com/Dawgsrlife/CSC207-A2-Final/blob/master/Assignment2/scrum/sprintBacklog4.txt) | [Code](https://github.com/Dawgsrlife/CSC207-A2-Final/blob/master/Assignment2/src/main/java/ca/utoronto/utm/assignment2/paint/Paint.java)
-- 👯 Check out my contributions to [TalkBox](https://github.com/Liam-Lee-66/TalkBox)
+- 👯 Check out my contributions to [Eterna](https://github.com/Dawgsrlife/Eterna) and [TalkBox](https://github.com/Liam-Lee-66/TalkBox)
 - 🎺 Check out my game of [Sokoban](https://github.com/Dawgsrlife/Sokoban-Game/blob/main/sokobangame.s), written in RISC-V Assembly
 
 ![Outer Space Splash](https://github.com/Dawgsrlife/dawgsrlife/blob/main/outer_space.jpeg?raw=true)
