@@ -1,98 +1,86 @@
 # Hi there! 👋
 
-I'm **Alex**, a Computer Science undergraduate at the University of Toronto, currently interning as an Application Programmer with the Ontario Ministry of Health. I design and build impactful software focused on clean architecture, AI/ML, and intuitive user experiences backed by scalable systems.
-
----
-![My Profile](https://github.com/Dawgsrlife/dawgsrlife/blob/main/my_profile.png)
----
-
-## 🌱 What I'm Up To
-
-- 💼 **Interning at the Ontario Ministry of Health**  
-  Supporting backend automation, data processing, and performance testing pipelines using Python, Java, and SAS.
-  
-- ⚡ **Hackathon Development**  
-  Building real projects under tight deadlines, focusing on AI/ML, OCR, and scalable cloud systems.
-  
-- 📈 **Algorithmic Trading**  
-  Learning to automate trading and investment strategies with Python.
-  
+I'm **Alex**, a Computer Science Specialist with a Math Minor at the University of Toronto Mississauga. I build scalable systems, clean user experiences, and AI-powered solutions that bridge software, finance, and creativity.
 
 ---
 
-## 🛠️ Recent Hackathons
+## What I'm Focused On
 
-### 🌿 [Emissionary](https://devpost.com/software/emissionary)
+- **Internship @ Ontario Ministry of Health**  
+  Automating backend workflows, validating data pipelines, and benchmarking systems with Python and SAS Viya.  
+  [Showcase](https://alex-moh-summer-2025.netlify.app/) · [GitHub](https://github.com/Dawgsrlife/moh-showcase)
 
-Transform grocery receipts into actionable carbon insights using OCR + AI.
+- **Hackathons & Side Projects**  
+  Designing full-stack applications with AI/ML integration under real-world constraints.  
+  [Devpost Profile](https://devpost.com/Dawgsrlife)
 
-![Emissionary Thumbnail](https://github.com/Dawgsrlife/dawgsrlife/blob/main/emissionary_thumbnail.png)
+- **Quantitative Trading & Finance**  
+  Applying CS + math to market strategies, while building automated trading bots in Python.
 
----
-
-### 🧠 [NeuroLens](https://devpost.com/software/neurolens-9bhlrc)
-
-Assistive vision tool with YOLO object detection and GPT voice narration.
-
-![NeuroLens Thumbnail](https://github.com/Dawgsrlife/dawgsrlife/blob/main/neurolens_thumbnail.png)
-
----
-
-### 🪐 [Eterna](https://devpost.com/software/eterna-tzl81q)
-
-AI-powered memory search engine for fast, intuitive personal data retrieval.
-
-![Eterna Thumbnail](https://github.com/Dawgsrlife/dawgsrlife/blob/main/eterna_thumbnail.png)
+- **Digital Marketing & AI**  
+  Exploring how AI can create automated funnels, improve outreach, and scale personal branding.
 
 ---
 
-### 🎤 [TalkBox](https://devpost.com/software/talkbox-jp84ev)
+## Featured Hackathons
 
-Real-time voice-to-text translation system for live multilingual captioning.
-
-![TalkBox Thumbnail](https://github.com/Dawgsrlife/dawgsrlife/blob/main/talkbox_thumbnail.png)
-
----
-
-## 🌟 Other Projects
-
-- ⚡ [Next.Twilight](https://github.com/Dawgsrlife/nextjs-typescript-starter)  
-  A polished Next.js + TypeScript starter with Tailwind and Framer Motion for rapid, modern app development.
-  
-- 🧱 [Sokoban (RISC-V)](https://github.com/Dawgsrlife/Sokoban-Game)  
-  Classic **Sokoban** puzzle game fully written in RISC-V Assembly.
-  
+### [Lumen](https://llumen.netlify.app/) · [Devpost](https://devpost.com/software/lumen-qsgcn4)  
+Personalized mental wellness app that recommends interactive minigames based on user mood.  
+**Tech:** React, Framer Motion, Unity, MongoDB, Gemini API  
+🏆 Best Use of MongoDB Atlas @ TerraHacks 2025
 
 ---
 
-## 🖥️ Tech Stack
-
-- **Languages:** TypeScript, Python, Java, SQL
-  
-- **Frameworks:** Next.js, React, FastAPI, Flask
-  
-- **Tools:** Git, Supabase, Prisma, Docker, SAS, Tesseract OCR
-  
-- **Cloud:** Vercel, AWS
-  
+### [Emissionary](https://devpost.com/software/emissionary)  
+Transforms grocery receipts into actionable carbon insights with OCR + AI.  
+**Tech:** Next.js, Python, Tesseract, Groq AI, Supabase
 
 ---
 
-## 🤝 Connect with Me
-
-- GitHub: [@Dawgsrlife](https://github.com/Dawgsrlife)
-  
-- Devpost: [@Dawgsrlife](https://devpost.com/Dawgsrlife)
-  
-- LinkedIn: [Alex He Meng](https://www.linkedin.com/in/alex-he-meng)
-  
-- Twitter/X: [@Dawgsrlifee](https://x.com/Dawgsrlifee)
-  
-- Email: alex.meng@mail.utoronto.ca | alexandermenginquiries@gmail.com
-  
+### [NeuroLens](https://devpost.com/software/neurolens-9bhlrc)  
+Assistive vision tool with YOLO object detection and Web Speech API narration.  
+**Tech:** Next.js, TypeScript, YOLO  
+🏅 Top 5 Finalist @ GenAI Genesis
 
 ---
 
-![Outer Space Splash](https://github.com/Dawgsrlife/dawgsrlife/blob/main/outer_space.jpeg?raw=true)
+### [Eterna](https://devpost.com/software/eterna-tzl81q)  
+AI-powered memory search engine for personal data retrieval.  
+**Tech:** Next.js, TypeScript, LangChain
 
 ---
+
+## Other Projects
+
+- [Next.Twilight](https://github.com/Dawgsrlife/nextjs-typescript-starter) – Starter kit with Next.js, TypeScript, Tailwind, and Framer Motion  
+- [Sokoban (RISC-V)](https://github.com/Dawgsrlife/Sokoban-Game) – Classic puzzle game in RISC-V Assembly  
+- [Internship Showcase](https://alex-moh-summer-2025.netlify.app/) – Province-wide migration + automation work  
+- [Portfolio (coming soon)](https://github.com/Dawgsrlife) – Central hub for projects and experiments  
+
+---
+
+## Tech Stack
+
+- **Languages:** Python, Java, C/C++, TypeScript, SQL  
+- **Frontend:** React, Next.js, Tailwind, Framer Motion, GSAP  
+- **Backend/Data:** FastAPI, Flask, Supabase (Prisma), MongoDB, Pandas, Pytest  
+- **Cloud/Systems:** AWS (Redshift, EC2), Docker, Kubernetes, SAS Viya  
+- **Tools:** Git, Linux, Bash, Vercel, Clerk
+
+---
+
+## Beyond Tech
+
+- 🚴 Road cyclist — Giant TCR rider, into endurance and high-cadence training  
+- 🎹 Pianist — classical + anime arrangements for creativity and discipline  
+- 🌏 Culture & Travel — interested in Japanese culture, future goal: trip to Japan  
+
+---
+
+## Connect with Me
+
+- GitHub: [@Dawgsrlife](https://github.com/Dawgsrlife)  
+- Devpost: [@Dawgsrlife](https://devpost.com/Dawgsrlife)  
+- LinkedIn: [Alex He Meng](https://www.linkedin.com/in/alex-he-meng)  
+- Twitter/X: [@Dawgsrlifee](https://x.com/Dawgsrlifee)  
+- Email: alex.meng@mail.utoronto.ca
