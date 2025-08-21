@@ -3,6 +3,8 @@
 I'm **Alex**, a Computer Science Specialist with a Math Minor at the University of Toronto Mississauga. I build scalable systems, clean user experiences, and AI-powered solutions that bridge software, finance, and creativity.
 
 ---
+![My Profile](https://github.com/Dawgsrlife/dawgsrlife/blob/main/my_profile.png)
+---
 
 ## What I'm Focused On
 
@@ -83,4 +85,8 @@ AI-powered memory search engine for personal data retrieval.
 - Devpost: [@Dawgsrlife](https://devpost.com/Dawgsrlife)  
 - LinkedIn: [Alex He Meng](https://www.linkedin.com/in/alex-he-meng)  
 - Twitter/X: [@Dawgsrlifee](https://x.com/Dawgsrlifee)  
-- Email: alex.meng@mail.utoronto.ca
+- Email: alex.meng@mail.utoronto.ca  
+
+---
+![Outer Space Splash](https://github.com/Dawgsrlife/dawgsrlife/blob/main/outer_space.jpeg?raw=true)
+---
